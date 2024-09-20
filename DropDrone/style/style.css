@@ -4,5 +4,8 @@ html{
     background-attachment: fixed;
     background-size: 100%;
 }
-
+form{
+   background-attachment: fixed;
+   background-position: center;
+}
 
